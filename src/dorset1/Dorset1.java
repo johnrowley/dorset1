@@ -18,6 +18,8 @@ public class Dorset1 {
         // TODO code application logic here
         
         // Today is March 18th
+        
+        // The day is Wednesday
     }
     
 }
